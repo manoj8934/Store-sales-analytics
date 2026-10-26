@@ -1,0 +1,52 @@
+Store _Sales Data Insights
+________________________________________
+•	Total order=9977
+•	Total Quantity sold=37820
+•	Over all sale=2296195.59
+•	Over all Profit=286241.42 (12.45%)
+•	Average Sales and Profit Per order are 230.15 and 28.69 respectively.
+
+•	Sales by Category:-
+	Technology generated highest sale at 836154.03 with highest profit of 145454.95 (17.4%),
+compare with Furniture at 741306.31 (mid sale ) with lowest profit of 18421.81 (2.49%)
+and Office supplies at 718735.24(lowest sale) with profit 122364.66 (17.02%) (mid profit).
+
+	In Technology- Accessories has minimum loss at  0.089 with sale value 7.16 compare with
+Machines at 6599.97 loss with sale value 4499.98.
+	Supplies has minimum profit 0.062 with 6.28 sale value compare with ,Copiers at 8399.97 profit
+With 17499 sale value.
+•	 Sales ,Profit by Sub -category :-
+	Furniture-
+o	Chairs has maximum sale at 4416 and loss of 630.82.
+o	Furnishings has minimum sale at 1.89 and loss of 0.99
+	Office supplies -
+o	Binders has maximum sale at 9892.74 and profit of 4946.
+o	Appliances has minimum sale at 0.44 and loss of 1.11.
+	Technology-
+o	Machines has maximum sale at 22638.38 and loss of  8%
+o	Accessories has minimum sale at .99 and profit of 44%
+•	Sales,Profit,discount by Region:-                                  
+
+REGION    SALES    PROFIT   DISCOUNT PROFIT%                                                                                              Corporate	706070.13	91954.98	476.85	13.0                                                                     Consumer	1160832.77	134007.44	820.51	11.54          
+WesT    725255.64	108329.81	350	    14.94
+East	  678435.2	91506.31	413.5	  13.49
+South	  391721.91	46749.43	238.55	11.93
+Central 500782.85	39655.88	557.14	7.92                
+              	
+
+
+
+•	Order That received maximum Loss/Profit :-
+
+	Category Technology -sub_category-Accessories in west region by first class shipping with  discount 0.02
+has received minimum loss.
+	Category Technology -sub_category-Machines in west region by first class shipping with  discount 0.7
+has received maximum loss at -6599.97.
+ship-mode        segment    Region   Category         sub-category  sales      Discount  PROFIT    PROFIT LEVEL
+First Class	    Corporate 	West	   Technology	      Accessories   7.16	      0.2	    -0.0895  	 Min Loss
+First Class   	Corporate	  West	   Office Supplies	Supplies	    6.28	      0	       0.0628  	 Min Pro
+Standard Class	Consumer	  East	   Technology	      Machines	    4499.985	  0.7	    -6599.978	  Max loss
+Standard Class	Corporate	  Central	 Technology	      Copiers	      17499.95  	0	       8399.976 	Max Pro
+
+
+
